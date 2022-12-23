@@ -23,3 +23,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/pennydropper/genR
+BugReports: https://github.com/pennydropper/genR/issues
